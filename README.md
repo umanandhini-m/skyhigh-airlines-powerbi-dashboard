@@ -1,6 +1,6 @@
-# ✈️ SkyHigh Airlines – Power BI Dashboard
+# SkyHigh Airlines – Power BI Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project is an interactive **Power BI dashboard developed as part of a Power BI course project** for analyzing airline performance, flight operations, passenger satisfaction, delays, routes, airports, and revenue trends.
 
@@ -8,7 +8,7 @@ The dashboard is designed to provide business-oriented insights through interact
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of this project are:
 
@@ -21,7 +21,7 @@ The main objectives of this project are:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Microsoft Power BI**
 - **Power Query**
