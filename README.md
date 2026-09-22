@@ -33,7 +33,7 @@ The main objectives of this project are:
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The project uses four datasets:
 
@@ -99,13 +99,13 @@ Detailed dataset information is available in:
 
 ---
 
-# 📈 Dashboard Structure
+# Dashboard Structure
 
 The Power BI report contains three main dashboard sections.
 
 ---
 
-## 1️⃣ Executive Summary
+## 1 Executive Summary
 
 The Executive Summary provides an overview of airline performance.
 
@@ -125,7 +125,7 @@ The Executive Summary provides an overview of airline performance.
 
 ---
 
-## 2️⃣ Flight Operations
+## 2️ Flight Operations
 
 The Flight Operations dashboard focuses on flight punctuality and operational performance.
 
@@ -142,7 +142,7 @@ The Flight Operations dashboard focuses on flight punctuality and operational pe
 
 ---
 
-## 3️⃣ Customer Insights
+## 3️ Customer Insights
 
 The Customer Insights dashboard focuses on passenger satisfaction and customer behavior.
 
@@ -160,7 +160,7 @@ The Customer Insights dashboard focuses on passenger satisfaction and customer b
 
 ---
 
-# 🧮 DAX Measures
+#  DAX Measures
 
 The project includes DAX calculations for key business KPIs.
 
@@ -179,7 +179,7 @@ The DAX measures are documented in:
 
 ---
 
-# 🔄 Data Preparation
+#  Data Preparation
 
 The project uses Power BI and Power Query for data preparation and transformation.
 
