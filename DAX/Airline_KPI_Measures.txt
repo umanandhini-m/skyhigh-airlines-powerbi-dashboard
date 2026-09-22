@@ -1,0 +1,25 @@
+# SkyHigh Airlines - DAX Measures
+
+## Total Flights
+
+TotalFlights = DISTINCTCOUNT(Airline_Flights[Flight ID])
+
+## Total Passenger
+
+TotalPassengers = DISTINCTCOUNT(Airline_Passengers[Passenger ID])
+
+## Average Delay
+
+AverageDelay = AVERAGE(Airline_Flights[Delay (min)])
+
+## Total Revenue
+
+TotalRevenue = SUM(Airline_Revenue[Total Revenue])
+
+## Average Feedback Rate
+
+Avg Feedback Passenger Score = AVERAGE(Airline_Passengers[Feedback Score]
+
+## Aircraft Type Usage 
+
+Flights by AircraftType = COUNTROWS(Airline_Flights)
